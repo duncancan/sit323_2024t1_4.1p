@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/duncancan/sit323_2024t1_4.1p/issues"
   },
-  "homepage": "https://github.com/duncancan/sit323_2024t1_4.1p#readme"
+  "homepage": "https://github.com/duncancan/sit323_2024t1_4.1p#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "winston": "^3.13.0"
+  }
 }
