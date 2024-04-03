@@ -1,5 +1,4 @@
-*Duncan McMurtrie
-Student ID 220478131*
+*Duncan McMurtrie, Student ID 220478131*
 
 
 # Deakin SIT323 Task 4.1P: Simple Calculator App
